@@ -1,0 +1,68 @@
+div.gallery {
+    margin: 5px;
+    border: 1px solid #ccc;
+    float: left;
+    width: 180px;
+  }
+  
+  div.gallery:hover {
+    border: 1px solid #777;
+  }
+  
+  div.gallery img {
+    width: 100%;
+    height: auto;
+  }
+  
+  div.desc {
+    padding: 15px;
+    text-align: center;
+  }
+body {
+
+    background-color: whitesmoke;
+    
+    }
+h1 { font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-style: oblique;
+    text-align: center;
+    font-size: 30px;
+
+}
+header { font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-style: oblique;
+    background-color: whitesmoke;
+    color: #cc5500;
+  padding: 30px;
+  text-align: center;
+  font-size: 50px;
+}
+p { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+font-style: normal;
+font-weight: bold;
+color: whitesmoke;
+text-align: left;
+padding-right: 600px;
+font-size: 18
+px;
+}
+a:link, a:visited {
+    background-color: whitesmoke;
+    color: black;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+  }
+  
+  a:hover, a:active {
+    background-color: beige;
+  }
+
+footer { font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-style: oblique;
+    background-color: whitesmoke;
+  padding-top: 400px;
+  text-align: center;
+  font-size: 50px;
+}

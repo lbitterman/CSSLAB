@@ -1,0 +1,72 @@
+/* this is the css for the home page*/
+div.gallery {
+    margin: 5px;
+    border: 1px solid #ccc;
+    float: left;
+    width: 180px;}
+
+  body {
+
+    background-color: whitesmoke;
+    
+    }
+h1 { font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-style: oblique;
+    text-align: left;
+    font-size: 25px;
+    padding-left: 20px;
+    padding-right: 400px;
+
+}
+.center {
+  margin: auto;
+  width: 60%;
+  border: 3px solid #cc5500;
+  padding: 10px;
+  text-align: center;
+
+}
+header { font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-style: oblique;
+    color: #cc5500;
+  padding: 30px;
+  text-align: left;
+  font-size: 95px;
+}
+p { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    color: whitesmoke;
+    text-align: left;
+    padding-right: 600px;
+    font-size: 18
+px;
+}
+footer { font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-style: oblique;
+    background-color: whitesmoke;
+  padding: 30px;
+  text-align: center;
+  font-size: 50px;
+}
+a:link, a:visited {
+    background-color: whitesmoke;
+    color: black;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+  }
+  
+  a:hover, a:active {
+    background-color: beige;
+  }
+  table, th, td {
+    border: 1px solid white;
+    border-collapse: collapse;
+    text-align: center;
+
+  }
+  th, td {
+    background-color:#cc5500;
+  }
